@@ -1,0 +1,4 @@
+= Stateful Docker Containers
+
+This repo will show examples of how to run stateful Docker containers. It will use Couchbase database as an example.
+
