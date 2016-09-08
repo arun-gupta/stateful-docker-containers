@@ -4,3 +4,5 @@ http://portworx.com/[PortWorx] provides easy-to-deploy scale-out storage for dev
 
 == How to setup?
 
+Docs: https://github.com/portworx/px-dev
+
